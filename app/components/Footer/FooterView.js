@@ -20,6 +20,8 @@ class Footer extends Component {
 
   }
 
+  // if dynamic content, you will need something like this
+  // <div style="position:relative;" id="footer"></div>
   render() {
     return (
       <section>
