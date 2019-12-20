@@ -4,8 +4,8 @@ ReactJS: SimpleMPA
 
 The business use case is to separate the main app (for paid users) from other pages (for marketing use).   
 Examples: an SPA is built as the main app (where users login) and there is a requirement of a landing    
-page for a blog & promotions. You are tasked to re-use existing SPA code as much as possible,   
-and to ensure the UI/UX remains the same.
+page for a blog & promotions (outside the main app). You are tasked to re-use existing SPA code,   
+as much as possible, and to ensure the UI/UX remains the same.
 
 This repo is for Web built using ```create-react-app``` (see [docs](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)). It can be used as     
 starter-kit for the MPA or combined with an SPA monorepo, like [SimpleApp](https://github.com/ottograjeda/public_ticket.528) for   
@@ -15,7 +15,7 @@ Mobile use on iOS & Android.
 Installation
 ============
 *  Get the repo
-* From root directory, do ```yarn```   
+* From root directory, do ```yarn```
 **Required** Basic ReactJS knowledge. If repo user needs review, please read [this](https://www.taniarascia.com/getting-started-with-react/) 
 
 Run
