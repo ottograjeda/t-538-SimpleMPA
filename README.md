@@ -1,6 +1,6 @@
 ReactJS: SimpleMPA
 =================
-"SimpleMPA" is sample code of a multi-page app for ReactJS.
+"SimpleMPA" is sample code of a multi-page app for React.
 
 The business use case is to separate the main app (for paid users) from other pages (for marketing use).   
 Examples: an SPA is built as the main app (where users login) and there is a requirement of a landing    
@@ -40,9 +40,11 @@ Demo & Animated GIFs
 
 Notes - Development
 ===========
-* CSS is mix of custom code and [MUI](https://www.muicss.com/).    
-* Loaders are custom CSS + JS (ReactJS used).   
-* Sample photos & placeholder text obtained via external APIs ([photos](https://source.unsplash.com/) | [text](https://loripsum.net/)).      
+* [ServiceWorker](https://levelup.gitconnected.com/a-guide-to-service-workers-in-react-js-82aec1d6a22d) (for PWA) **not** used
+* CSS is mix of custom code and [MUI](https://www.muicss.com/)    
+* Loaders are custom CSS + JS (ReactJS not used)   
+* If Dynamic Footer needed, please see [Oreni](https://stackoverflow.com/questions/8815784/how-to-keep-footer-at-the-bottom-even-with-dynamic-height-website) for inspiration    
+* Sample photos & placeholder text obtained via external APIs ([photos](https://source.unsplash.com/) | [text](https://loripsum.net/))      
 * [Assets](https://github.com/ottograjeda/public_ticket.538/tree/master/app/assets) (from graphic designer, writers, editors, etc.) are copied during build process.     
 * Custom components for [Header](https://github.com/ottograjeda/public_ticket.538/tree/master/app/components/Header) & [Footer](https://github.com/ottograjeda/public_ticket.538/tree/master/app/components/Footer) used. Can be refactored or expanded as needed.
 * SEO can be edited manually per [page](https://github.com/ottograjeda/public_ticket.538/tree/master/app/pages) or on minor refactor, pulled from database during build process.   

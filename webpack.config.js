@@ -14,7 +14,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 
 // ES5 
-// uncomment, if you plan to use only ES5
+// uncomment, if you plan to use ES5
 //const UglifyJsPlugin = require('uglifyjs-webpack-plugin'); 
 
 // Requires file.js
@@ -70,8 +70,8 @@ module.exports = (env, argv) => ({
         filename: "[name].js"
     },
     plugins: [
-    new CopyWebpackPlugin([ { from: 'app/assets' } ]),
-    ...htmlPlugins
+      new CopyWebpackPlugin([ { from: 'app/assets' } ]),
+      ...htmlPlugins
     ],
     resolve:{
         alias:{
