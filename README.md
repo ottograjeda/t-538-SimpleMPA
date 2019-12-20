@@ -51,5 +51,5 @@ Inspiration
 ===========
 * [Ultimate Death Match: SPA vs MPA](https://medium.com/@jainshilpa1993/ultimate-death-match-spa-vs-mpa-82e0b79ae6b6) 
 * [Static website, multiple pages using webpack](https://www.ivarprudnikov.com/static-website-multiple-html-pages-using-webpack-plus-github-example/) 
-* [How OkCupid organizes multi-page React app](https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app/) 
+* [How OkCupid organizes its multi-page React app](https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app/) 
 * [The Difference between Single-Page and Multi-page Apps](https://rubygarage.org/blog/single-page-app-vs-multi-page-app) 
