@@ -15,7 +15,7 @@ Mobile use on iOS & Android.
 Installation
 ============
 *  Get the repo
-* From root directory, do ```yarn```
+* From root directory, do ```yarn```   
 **Required** Basic ReactJS knowledge. If repo user needs review, please read [this](https://www.taniarascia.com/getting-started-with-react/) 
 
 Run
