@@ -31,11 +31,11 @@ Demo & Animated GIFs
 ===========
 * [Live Demo](https://t-538-react.web.app/) at [Firebase Hosting](https://firebase.google.com/docs/hosting) 
 * Google PageSpeed Analysis ([desktop](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ft-538-react.web.app%2F&tab=desktop) | [mobile](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ft-538-react.web.app%2F&tab=mobile))  
-* SimpleMPA on iOS 
+* SimpleMPA on iOS    
 ![Animated GIF - Webapp on iOS](https://raw.githubusercontent.com/ottograjeda/public_ticket.538/master/_docs/ezgif-720_ios.gif)
-* SimpleMPA on Android 
+* SimpleMPA on Android    
 ![Animated GIF - Webapp on Android](https://raw.githubusercontent.com/ottograjeda/public_ticket.538/master/_docs/ezgif-720_android.gif)
-* SimpleMPA Webapp 
+* SimpleMPA Webapp    
 ![Animated GIF - Webapp on Desktop](https://raw.githubusercontent.com/ottograjeda/public_ticket.538/master/_docs/ezgif-720_web.gif)
 
 Notes - Development
