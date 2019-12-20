@@ -27,7 +27,7 @@ class Footer extends Component {
         <hr style={{backgroundColor:"#2196F3", marginTop:"0",border:"1px!important",height:"1px!important",paddingTop:"1px!important"}} />
             <ul className="list-inline">
               <li className="list-inline-item">
-              &copy; 2020 Awesome LLC. All Rights Reserved. | <a href="#">Privacy</a> | <a href="#">Terms</a> &nbsp;
+              &copy; 2020 Awesome LLC. All Rights Reserved.
               </li>
             </ul>
         </footer>
