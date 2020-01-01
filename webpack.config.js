@@ -160,7 +160,7 @@ module.exports = (env, argv) => ({
             vendor: {
               test: /node_modules/,
               chunks: "initial",
-              name: "vendor",
+              name: "vendor", // modify as needed for file path output
               enforce: true
             }
           }
